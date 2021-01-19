@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">App de Viagens</string>
     <string name="especiais_home">Especiais</string>
+    <string name="brasil_home">Brasil</string>
+    <string name="cidade_item">Cidade</string>
+    <string name="dias_item">2 dias</string>
+    <string name="days_item">R$ 00,00</string>
 </resources>
